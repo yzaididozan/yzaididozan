@@ -34,8 +34,28 @@ I enjoy projects that blend **technical exploration with creative thinking**—f
 
 </div>
 
+<h2> Tech Stack</h2>
 
-<h2>🌸 GitHub Analytics</h2>
+<div align="center">
+
+  <img src="https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+
+  <img src="https://img.shields.io/badge/TypeScript-F48FB1?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+
+  <img src="https://img.shields.io/badge/Python-FF8A80?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+
+  <img src="https://img.shields.io/badge/React-FF69B4?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+
+  <img src="https://img.shields.io/badge/MongoDB-E9969E?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+
+  <img src="https://img.shields.io/badge/Trello-DB7093?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
+
+  <img src="https://img.shields.io/badge/HTML5-FA8072?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+
+</div>
+
+
+<h2> GitHub Analytics</h2>
 
 <table align="center">
   <tr>
