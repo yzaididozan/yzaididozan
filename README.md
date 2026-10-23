@@ -1,16 +1,20 @@
+
 <div align="center">
 
 # Yasamean Zaidi-Dozandeh
 
 <img src="./assets/roles.svg" alt="Full Stack Engineer | Game Dev" width="650" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-yzaididozan-181717?style=flat-square&logo=github)](https://github.com/yzaididozan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Find%20Me-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yasameanzaidi/)
+<a href="https://www.linkedin.com/in/yasameanzaidi/">
+  <img src="https://img.shields.io/badge/LinkedIn-FA8072?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:yzaididozan@gmail.com">
+  <img src="https://img.shields.io/badge/Email-E9969E?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 </div>
 
 ---
-
 
 ### About Me
 
