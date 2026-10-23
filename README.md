@@ -55,26 +55,23 @@ I enjoy projects that blend **technical exploration with creative thinking**—f
 </div>
 
 
-<h2> GitHub Analytics</h2>
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=yzaididozan&show_icons=true&hide_border=true&bg_color=FFE4EC&title_color=FA8072&text_color=B85C70&icon_color=E9969E&ring_color=FA8072"
-        width="100%"
-        alt="GitHub statistics"
-      />
-    </td>
-    <td align="center" width="50%">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzaididozan&layout=compact&hide_border=true&bg_color=FFE4EC&title_color=FA8072&text_color=B85C70"
-        width="100%"
-        alt="Most used languages"
-      />
-    </td>
-  </tr>
-</table>
+<h2>GitHub Analytics</h2>
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=yzaididozan&show_icons=true&hide_border=true&bg_color=FFE4EC&title_color=FA8072&text_color=B85C70&icon_color=E9969E&ring_color=FA8072&card_width=470"
+    width="49%"
+    height="210"
+    alt="GitHub statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzaididozan&layout=compact&hide_border=true&bg_color=FFE4EC&title_color=FA8072&text_color=B85C70&card_width=470&card_height=210"
+    width="49%"
+    height="210"
+    alt="Most used languages"
+  />
+</div>
 
 <div align="center">
   <img
@@ -83,4 +80,3 @@ I enjoy projects that blend **technical exploration with creative thinking**—f
     alt="GitHub contribution streak"
   />
 </div>
-
