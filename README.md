@@ -2,7 +2,7 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE4EC,50:FFB6C1,100:FA8072&height=200&section=header&text=Yasamean%20Zaidi-Dozandeh%20%E2%99%A1&fontColor=B85C70&fontSize=42&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Game%20Dev&descAlignY=56&descSize=17&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE4EC,50:FFB6C1,100:FA8072&height=200&section=header&text=Yasamean%20Zaidi-Dozandeh&fontColor=B85C70&fontSize=42&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Game%20Dev&descAlignY=56&descSize=17&animation=fadeIn"
   width="100%"
   alt="Animated pink welcome banner"
 />
