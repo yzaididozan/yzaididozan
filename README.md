@@ -30,12 +30,6 @@ I enjoy projects that blend **technical exploration with creative thinking**—f
 
 <div align="center">
 
-*Building things, learning constantly, and turning curiosity into code.*
-
-</div>
-
-<div align="center">
-
   <img src="https://img.shields.io/badge/JavaScript-EF7C98?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
   
   <img src="https://img.shields.io/badge/TypeScript-F48FB1?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
