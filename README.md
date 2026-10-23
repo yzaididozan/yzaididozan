@@ -86,3 +86,16 @@
   />
 
 </div>
+
+<div align="center">
+
+♡ ⋆｡˚ ❀ ˚｡⋆ ♡ ⋆｡˚ ❀ ˚｡⋆ ♡
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:FA8072,50:FFB6C1,100:FFE4EC&height=130&section=footer&animation=fadeIn"
+  width="100%"
+  alt="Pink wave footer"
+/>
+
+</div>
+
