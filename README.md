@@ -9,11 +9,6 @@
 </div>
 
 <div align="center">
-
-# Yasamean Zaidi-Dozandeh
-
-<img src="./assets/roles.svg" alt="Full Stack Engineer | Game Dev" width="650" />
-
 <a href="https://www.linkedin.com/in/yasameanzaidi/">
   <img src="https://img.shields.io/badge/LinkedIn-FA8072?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
