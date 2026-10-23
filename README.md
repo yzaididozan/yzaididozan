@@ -30,12 +30,13 @@
 - 🛠️ Use **Git, GitHub, and Trello** for version control, project organization, and development workflows.
 - 🌷 Passionate about combining **software engineering, machine learning, and creative coding** to solve interesting technical challenges.
 
-### Public Repositories
 
-| Repository | Breakdown | Primary language |
+### 🌸 Public Repositories
+
+| Repository | Breakdown | Primary Language |
 | :--- | :--- | :--- |
-| [**zebrafish-behavior-ssl**](https://github.com/yzaididozan/zebrafish-behavior-ssl) | Self-supervised temporal representation learning for discovering and analyzing reproducible zebrafish behavioral motifs. | Python |
-| [**voynich-decipherment**](https://github.com/yzaididozan/voynich-decipherment) | Computational exploration of the Voynich manuscript and its possible decipherment. | Python |
+| [![Zebrafish](https://img.shields.io/badge/zebrafish--behavior--ssl-FA8072?style=flat-square&logo=github&logoColor=white)](https://github.com/yzaididozan/zebrafish-behavior-ssl) | Self-supervised temporal representation learning for discovering and analyzing reproducible zebrafish behavioral motifs. | Python |
+| [![Voynich](https://img.shields.io/badge/voynich--decipherment-E9969E?style=flat-square&logo=github&logoColor=white)](https://github.com/yzaididozan/voynich-decipherment) | Computational exploration of the Voynich manuscript and its possible decipherment. | Python |
 
 ### Other Work
 
