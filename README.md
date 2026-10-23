@@ -40,6 +40,11 @@
 
 ### Other Work
 
+| Project | Breakdown | Tech Stack |
+| :--- | :--- | :--- |
+| ![MakiChat](https://img.shields.io/badge/MakiChat-FA8072?style=flat-square&logo=wechat&logoColor=white) | Development of a web-based chat platform using JavaScript and TypeScript, with MongoDB for data storage and management. | JavaScript, TypeScript, MongoDB |
+
+
 ---
 
 <div align="center">
