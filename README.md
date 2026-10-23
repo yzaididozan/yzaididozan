@@ -46,20 +46,15 @@ I enjoy projects that blend **technical exploration with creative thinking**—f
 
 </div>
 
-
-<h2>GitHub Analytics</h2>
-
 <div align="center">
 
   <img
     src="https://github-stats-extended.vercel.app/api?username=yzaididozan&show_icons=true&hide_border=true&include_all_commits=true&bg_color=FFE4EC&title_color=FA8072&text_color=B85C70&icon_color=E9969E&ring_color=FA8072&border_radius=16"
-    height="165"
+    width="49%"
     alt="GitHub statistics"
-  />
-
-  <img
+  /><img
     src="https://streak-stats.demolab.com?user=yzaididozan&hide_border=true&background=FFE4EC&ring=FA8072&fire=FF8A80&currStreakLabel=FA8072&sideLabels=B85C70&currStreakNum=B85C70&sideNums=B85C70&dates=E9969E&stroke=FFE4EC&border_radius=16"
-    height="165"
+    width="49%"
     alt="GitHub contribution streak"
   />
 
