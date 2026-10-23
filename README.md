@@ -11,11 +11,16 @@
 
 ---
 
+
 ### About Me
 
-I'm **Yasamean**, a full-stack engineer and game developer interested in building interactive experiences and exploring complex problems through code. My work spans web interfaces, Python development, and research-oriented experiments in machine learning and computational analysis.
-
-I enjoy projects that blend **technical exploration with creative thinking**—from designing engaging user experiences to investigating patterns in behavioral data and historical texts. I'm especially interested in the intersection of **software, games, and human-centered design**.
+- 🎀 **Full-Stack Engineer & Game Developer** with experience building interactive web applications, developing software, and exploring game development.
+- 💻 Work with **JavaScript, TypeScript, Python, React, HTML5, and MongoDB** to develop web interfaces and full-stack applications.
+- 🧠 Explored **self-supervised machine learning** for zebrafish behavioral analysis, focusing on temporal representations and identifying recurring behavioral patterns.
+- 🔍 Developed a **computational decipherment project** investigating the Voynich manuscript through programming and analytical approaches.
+- 🎮 Interested in **game mechanics, interactive systems, and user-centered design**, combining technical problem-solving with creative development.
+- 🛠️ Use **Git, GitHub, and Trello** for version control, project organization, and development workflows.
+- 🌷 Passionate about combining **software engineering, machine learning, and creative coding** to solve interesting technical challenges.
 
 ### Public Repositories
 
