@@ -31,20 +31,18 @@
 - 🌷 Passionate about combining **software engineering, machine learning, and creative coding** to solve interesting technical challenges.
 
 
-### 🌸 Public Repositories
+### Public Repositories
 
 | Repository | Breakdown | Primary Language |
 | :--- | :--- | :--- |
-| [![Zebrafish](https://img.shields.io/badge/zebrafish--behavior--ssl-FA8072?style=flat-square&logo=github&logoColor=white)](https://github.com/yzaididozan/zebrafish-behavior-ssl) | Self-supervised temporal representation learning for discovering and analyzing reproducible zebrafish behavioral motifs. | Python |
-| [![Voynich](https://img.shields.io/badge/voynich--decipherment-E9969E?style=flat-square&logo=github&logoColor=white)](https://github.com/yzaididozan/voynich-decipherment) | Computational exploration of the Voynich manuscript and its possible decipherment. | Python |
+| [![Zebrafish](https://img.shields.io/badge/zebrafish--behavior--ssl-FA8072?style=flat-square&logo=github&logoColor=white)](https://github.com/yzaididozan/zebrafish-behavior-ssl) | Self-supervised temporal representation learning for discovering and analyzing reproducible zebrafish behavioral motifs. | ![Python](https://img.shields.io/badge/Python-FF8A80?style=for-the-badge&logo=python&logoColor=white) |
+| [![Voynich](https://img.shields.io/badge/voynich--decipherment-E9969E?style=flat-square&logo=github&logoColor=white)](https://github.com/yzaididozan/voynich-decipherment) | Computational exploration of the Voynich manuscript and its possible decipherment. | ![Python](https://img.shields.io/badge/Python-FF8A80?style=for-the-badge&logo=python&logoColor=white) |
 
 ### Other Work
 
 | Project | Breakdown | Tech Stack |
 | :--- | :--- | :--- |
-| ![MakiChat](https://img.shields.io/badge/MakiChat-FA8072?style=flat-square&logo=wechat&logoColor=white) | Development of a web-based chat platform using JavaScript and TypeScript, with MongoDB for data storage and management. | JavaScript, TypeScript, MongoDB |
-
-
+| ![MakiChat](https://img.shields.io/badge/MakiChat-FA8072?style=flat-square&logo=wechat&logoColor=white) | Development of a web-based chat platform using JavaScript and TypeScript, with MongoDB for data storage and management. | ![JavaScript](https://img.shields.io/badge/JavaScript-EF7C98?style=for-the-badge&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-F48FB1?style=for-the-badge&logo=typescript&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-E9969E?style=for-the-badge&logo=mongodb&logoColor=white) |
 ---
 
 <div align="center">
