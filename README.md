@@ -33,3 +33,31 @@ I enjoy projects that blend **technical exploration with creative thinking**—f
 *Building things, learning constantly, and turning curiosity into code.*
 
 </div>
+
+## GitHub Analytics
+
+<div align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=yzaididozan&show_icons=true&hide_border=true&bg_color=FFE4EC&title_color=FA8072&text_color=B85C70&icon_color=E9969E&ring_color=FA8072"
+    height="170"
+    alt="GitHub statistics"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzaididozan&layout=compact&hide_border=true&bg_color=FFE4EC&title_color=FA8072&text_color=B85C70"
+    height="170"
+    alt="Most used languages"
+  />
+
+</div>
+
+<div align="center">
+
+  <img
+    src="https://streak-stats.demolab.com?user=yzaididozan&hide_border=true&background=FFE4EC&ring=FA8072&fire=FF8A80&currStreakLabel=FA8072&sideLabels=B85C70&currStreakNum=B85C70&sideNums=B85C70&dates=E9969E&stroke=FFE4EC"
+    alt="GitHub contribution streak"
+  />
+
+</div>
+
