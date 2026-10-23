@@ -34,8 +34,6 @@ I enjoy projects that blend **technical exploration with creative thinking**—f
 
 </div>
 
-<h2> Tech Stack</h2>
-
 <div align="center">
 
   <img src="https://img.shields.io/badge/JavaScript-EF7C98?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
@@ -53,9 +51,6 @@ I enjoy projects that blend **technical exploration with creative thinking**—f
   <img src="https://img.shields.io/badge/HTML5-FA8072?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 
 </div>
-
-
-<h2>GitHub Analytics</h2>
 
 <div align="center">
 
