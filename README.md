@@ -38,8 +38,8 @@ I enjoy projects that blend **technical exploration with creative thinking**—f
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-
+  <img src="https://img.shields.io/badge/JavaScript-EF7C98?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  
   <img src="https://img.shields.io/badge/TypeScript-F48FB1?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 
   <img src="https://img.shields.io/badge/Python-FF8A80?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
