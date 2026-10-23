@@ -22,7 +22,7 @@
 
 ### About Me
 
-- 🎀 **Full-Stack Engineer & Game Developer** with experience building interactive web applications, developing software, and exploring game development.
+- 🎀 **Full-Stack Engineer & Game Developer** with a BSc in Computer Science and experience building interactive web applications, developing software, and exploring game development.
 - 💻 Work with **JavaScript, TypeScript, Python, React, HTML5, and MongoDB** to develop web interfaces and full-stack applications.
 - 🧠 Explored **self-supervised machine learning** for zebrafish behavioral analysis, focusing on temporal representations and identifying recurring behavioral patterns.
 - 🔍 Developed a **computational decipherment project** investigating the Voynich manuscript through programming and analytical approaches.
