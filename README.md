@@ -56,27 +56,31 @@ I enjoy projects that blend **technical exploration with creative thinking**—f
 
 
 
+
 <h2>GitHub Analytics</h2>
 
 <div align="center">
+
   <img
-    src="https://github-readme-stats.vercel.app/api?username=yzaididozan&show_icons=true&hide_border=true&bg_color=FFE4EC&title_color=FA8072&text_color=B85C70&icon_color=E9969E&ring_color=FA8072&card_width=470"
+    src="https://github-readme-stats.vercel.app/api?username=yzaididozan&show_icons=true&hide_border=true&bg_color=FFE4EC&title_color=FA8072&text_color=B85C70&icon_color=E9969E&ring_color=FA8072&card_width=495&card_height=200"
     width="49%"
-    height="210"
     alt="GitHub statistics"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzaididozan&layout=compact&hide_border=true&bg_color=FFE4EC&title_color=FA8072&text_color=B85C70&card_width=470&card_height=210"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzaididozan&layout=compact&hide_border=true&bg_color=FFE4EC&title_color=FA8072&text_color=B85C70&card_width=495&card_height=200"
     width="49%"
-    height="210"
     alt="Most used languages"
   />
+
 </div>
 
 <div align="center">
+
   <img
     src="https://streak-stats.demolab.com?user=yzaididozan&hide_border=true&background=FFE4EC&ring=FA8072&fire=FF8A80&currStreakLabel=FA8072&sideLabels=B85C70&currStreakNum=B85C70&sideNums=B85C70&dates=E9969E&stroke=FFE4EC"
     width="65%"
     alt="GitHub contribution streak"
   />
+
 </div>
+
